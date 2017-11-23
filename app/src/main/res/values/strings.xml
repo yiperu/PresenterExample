@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PresenterExample</string>
+    <string name="valorText">1</string>
 </resources>
